@@ -112,40 +112,7 @@ Visualizations help identify relationships between weather variables and changin
 | JavaScript | Frontend interactions |
 | CSV | Dataset storage |
 
----
 
-## 📁 Project Structure
-
-```text
-climate-risk-analytics/
-│
-├── app.py
-├── weather_core.py
-├── charts.py
-├── train.py
-├── data_generator.py
-├── requirements.txt
-│
-├── data/
-│   └── weather_data.csv
-│
-├── models/
-│   └── weather_models.joblib
-│
-├── templates/
-│   ├── dashboard.html
-│   ├── forecast.html
-│   ├── climate_trends.html
-│   └── ...
-│
-├── static/
-│   └── style.css
-│
-└── tests/
-    └── test_project.py
-```
-
----
 
 ## ⚙️ Installation & Setup
 
